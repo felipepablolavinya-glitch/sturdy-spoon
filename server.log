@@ -1,0 +1,6 @@
+nohup: ignoring input
+
+> sturdy-spoon@0.1.0 start
+> node index.js
+
+Server running on http://localhost:3000
